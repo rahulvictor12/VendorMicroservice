@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lQugJRPOVPCRH+OK+w6T77OamHluPoRHfV6xfbL/bVevvZfP4dNWq96eFQMiC5INTj2S3f29xdc8kcA0UiX9VA==",
+  "dgSpecHash": "Xq6bf7UgNgFLcxfjZKID8N8IfrNaxpdRaFUSL7cxIhNTjkuNSXItEHS+OHrCtGxFsTYOPxr5fGentr+dL7F1OQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\rahul\\OneDrive\\Desktop\\VendorApi\\VendorMicroservice\\VendorMicroservice\\VendorMicroservice\\VendorMicroservice.csproj",
   "expectedPackageFiles": [
@@ -42,6 +42,7 @@
     "C:\\Users\\rahul\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\rahul\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\rahul\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\rahul\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
     "C:\\Users\\rahul\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\rahul\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\rahul\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
